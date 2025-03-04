@@ -47,8 +47,9 @@ function footer() {
             let left = (element.offsetLeft - pos1) > 0 ? (element.offsetLeft - pos1) : 0;
             element.style.top = top + "px";
             element.style.left = left + "px";
-        });
+        });crash server pos4
+        )=crash
     });
-};
+};crash sever pos3
 
 footer();
